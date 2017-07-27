@@ -8,7 +8,7 @@ for line in infile:
     Facts.append(line.strip('\n'))
 infile.close()
 
-Hashtags = ['#inspirational', '#motivaion','#thought','#motivationmylife','#mylifemyrules']
+Hashtags = ['#inspirational', '#motivaional','#thought']
 
 # Credentials to access Twitter API
 ACCESS_TOKEN    = '845540536417103875-Z5jyS1thWiaoNtHaqIrFntAw7b3vEhL'
