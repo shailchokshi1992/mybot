@@ -11,10 +11,10 @@ infile.close()
 Hashtags = ['#inspirational', '#motivaional','#thought']
 
 # Credentials to access Twitter API
-ACCESS_TOKEN    = '845540536417103875-Z5jyS1thWiaoNtHaqIrFntAw7b3vEhL'
-ACCESS_SECRET   = 'JETplJEpYDZ16ypfrGgQmCXrUIMILJhn0xaSGDYpyuwsc'
-CONSUMER_KEY    = '5nTfkoZhy7OdOGBCOUoOm0W5M'
-CONSUMER_SECRET = '6xjOSN5A9gCqXb5iBdUq8rtiVe0QVdV7tieDVuX2w3sLCzKTKH'
+ACCESS_TOKEN    = '**********************************'
+ACCESS_SECRET   = '**********************************'
+CONSUMER_KEY    = '5********************************'
+CONSUMER_SECRET = '**********************************'
 
 # Initiate the connection to Twitter API
 Auth = OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
